@@ -1,0 +1,13 @@
+div.Todolist,div.Nodata{
+  background-color:crimson;
+  width:30%;
+  margin: 5px auto;
+  padding: 1%;
+}
+h3{
+  text-align: center;
+}
+table,td,tr{
+  align-items: center;
+  width: 80%;
+}
